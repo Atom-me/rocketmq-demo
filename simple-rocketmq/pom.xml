@@ -13,9 +13,13 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>simple-rocketmq</name>
     <description>simple-rocketmq</description>
+
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
+
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -39,7 +43,6 @@
             <artifactId>rocketmq-client</artifactId>
             <version>4.8.0</version>
         </dependency>
-
     </dependencies>
 
     <build>

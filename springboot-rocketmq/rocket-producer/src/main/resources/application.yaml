@@ -1,0 +1,4 @@
+rocketmq:
+  name-server: 10.16.118.230:9876
+  producer:
+    group: test-producer-group
