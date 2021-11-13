@@ -1,4 +1,4 @@
-package com.atom.simplerocketmq;
+package com.atom.simplerocketmq.simplemessage;
 
 import lombok.SneakyThrows;
 import org.apache.rocketmq.client.consumer.DefaultMQPushConsumer;
